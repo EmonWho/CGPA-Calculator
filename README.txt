@@ -7,7 +7,6 @@ Type of App: Android Application
 
 Main Features:
 
->>Simple User Interface
 >>User Registration,Login & log out
 >>Add course and its related information
 >>View current CGPA and other information
@@ -15,9 +14,10 @@ Main Features:
 >>Save and load courses.
 >>Both Course wise and semester wise CGPA calculation
 >>Flexibility for changing and updating the grading system.
+>>User Can see the CGPA system of different University.
 
 Operating System: Windows/Linux
-Written in:Java,Database  
+Written in:Java  
 Tools: Android Studio 
 
 References:None(everything was done by us)
